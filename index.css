@@ -5,4 +5,7 @@ div{
     background-color: burlywood;
     padding:10px;
     border-radius: 30px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-style: italic;
 }
